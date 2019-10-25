@@ -2,7 +2,7 @@ Reproduction of doctrine/collection `ArrayCollection#map()` psalm annotation bug
 
 ## How to use
 
-1. execute `composer update`
+1. execute `composer install`
 2. execute `vendor/bin/psalm`
 
 **Expected:**
