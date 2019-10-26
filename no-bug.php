@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Bug;
+namespace NoBug;
 
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
