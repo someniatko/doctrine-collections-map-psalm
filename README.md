@@ -1,4 +1,4 @@
-Reproduction of doctrine/collection `ArrayCollection#map()` psalm annotation bug.
+Reproduction of doctrine/collection `ArrayCollection#map()` psalm annotation bug: https://github.com/doctrine/collections/issues/210
 
 ## How to use
 
